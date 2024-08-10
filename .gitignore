@@ -363,3 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 .gitattributes
 **/build/
+build/*
+ExampleDLL/build/
