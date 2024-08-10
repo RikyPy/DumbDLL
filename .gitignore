@@ -364,4 +364,4 @@ FodyWeavers.xsd
 .gitattributes
 **/build/
 build/*
-ExampleDLL/build/
+ExampleDLL/*
