@@ -33,5 +33,32 @@
   <ItemGroup>
     <None Include=".gitignore" />
     <None Include=".gitattributes" />
+    <None Include="build\ExampleDLL.dll" />
+    <None Include="build\ExampleDLL.exp" />
+    <None Include="build\ExampleDLL.pdb" />
+    <None Include="ExampleDLL\build\intermediates\ExampleDLL.tlog\CL.command.1.tlog" />
+    <None Include="ExampleDLL\build\intermediates\ExampleDLL.tlog\Cl.items.tlog" />
+    <None Include="ExampleDLL\build\intermediates\ExampleDLL.tlog\CL.read.1.tlog" />
+    <None Include="ExampleDLL\build\intermediates\ExampleDLL.tlog\CL.write.1.tlog" />
+    <None Include="ExampleDLL\build\intermediates\ExampleDLL.tlog\ExampleDLL.lastbuildstate" />
+    <None Include="ExampleDLL\build\intermediates\ExampleDLL.tlog\link.command.1.tlog" />
+    <None Include="ExampleDLL\build\intermediates\ExampleDLL.tlog\link.read.1.tlog" />
+    <None Include="ExampleDLL\build\intermediates\ExampleDLL.tlog\link.secondary.1.tlog" />
+    <None Include="ExampleDLL\build\intermediates\ExampleDLL.tlog\link.write.1.tlog" />
+    <None Include="ExampleDLL\build\intermediates\ExampleDLL.dll.recipe" />
+    <None Include="ExampleDLL\build\intermediates\ExampleDLL.iobj" />
+    <None Include="ExampleDLL\build\intermediates\ExampleDLL.ipdb" />
+    <None Include="ExampleDLL\build\intermediates\ExampleDLL.pch" />
+    <None Include="ExampleDLL\build\intermediates\vc143.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="build\ExampleDLL.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="ExampleDLL\build\intermediates\dllmain.obj" />
+    <Object Include="ExampleDLL\build\intermediates\pch.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ExampleDLL\build\intermediates\ExampleDLL.log" />
   </ItemGroup>
 </Project>
