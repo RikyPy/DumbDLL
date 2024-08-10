@@ -167,6 +167,7 @@
     <None Include="ExampleDLL\build\intermediates\ExampleDLL.ipdb" />
     <None Include="ExampleDLL\build\intermediates\ExampleDLL.pch" />
     <None Include="ExampleDLL\build\intermediates\vc143.pdb" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Object Include="ExampleDLL\build\intermediates\dllmain.obj" />
